@@ -1,4 +1,4 @@
-LE
+﻿LE
 THR
 OR
 ES
@@ -14,11 +14,11 @@ gne des Roys, & ou ils gisent.
 TITRE PREMIER.
 Il tient le
 premier ranę
-5 HARAMOND Payen, ans effigies
+ HARAMOND Payen, ans effigies
 fils du Duc Mar- des Roys au
 Pallais de Pa
 chomires, fut éleu
-0
+
 Chef & Roy sur les
 Fraçois en Germa¬
 nie, l'an de grace
@@ -36,11 +36,11 @@ enterré à Cambray.
 N. femme du Roy Clodion, fille du
 Roy dAustrie, ou Austrasie & Thu¬
 ringue.
-one 3 Merouee Paien, cousin de Clodion, con¬
+one  Merouee Paien, cousin de Clodion, con¬
 Chronique mença à regner l'an quatre cents quaran¬
 Latine escrite
 a la mam il te neuf, & regna onze ans.
-est nommé 4 Chideric Paien, premier du nom, fils
+est nommé  Chideric Paien, premier du nom, fils
 Meronens
 Figans. de Merouée, commença à regner l'an qua¬
 tre cents cinquantem neuf, & regna vingt
@@ -48,7 +48,7 @@ six ans.
 Basine femme de Childeric laissa son
 premier mari Bissin Roy de Thuringue
 pour suiure ledit Childeric quelle aymoit.
-5 Clouis premier Roy Chrestien, filz de
+ Clouis premier Roy Chrestien, filz de
 Childeric, commenca à regner l'an quatre
 cents quatre vingt cinqu, & regna trente
 ans. Il gist en l'Abbaie Saincte Gene¬
@@ -60,14 +60,14 @@ bate.
 
 
 HIST. DE FRANCE.
-2
+
 Childebert premier du non filz de Clo¬
 uis commença à regner l'an cinqu cents
 quinze: & regna quarante cinqu ans. Il gist
 Sainct Germain des Prez lez Paris qu'il
 fonda.
 Vultrogote son espouse gist au mesme lieu.
-7 Clotaire premier du nom filz de Clo¬
+ Clotaire premier du nom filz de Clo¬
 uis suruequit Childebert son frere, auec
 lequel il auoit regnê: & commença à re¬
 gner seul l'an cinq cents soixante, &
@@ -96,7 +96,7 @@ Vultrodade septiesme femme dudit
 Clotaire, & derluy repudiee par le con¬
 seil del Eglise, par cequ elle auoit este ma¬
 riee auec Theodoal son neueu.
-En vne. Chro 8 Aribert ou Cherebert filz de Clotaire
+En vne. Chro  Aribert ou Cherebert filz de Clotaire
 nique Latine
 à la maie commença à regner l'an cinqe cents soi¬
 nomme ka xante six, & regna neuf ans. Il gist
@@ -109,7 +109,7 @@ laquelle il repudia pour la folle amour
 qu'il portoit a deux damoiselles qu'il en¬
 tretint longtemps, lvne nommee Mar¬
 conese & l'autre Merofide.
-9 Chilperic premier du non, filz de Clo¬
+ Chilperic premier du non, filz de Clo¬
 taire, suruequit son frere Aribert en l'an
 cinque cents septante & quatre, & regna
 quatorzè ans. Il gist à sainct Germain
@@ -118,7 +118,7 @@ des Pez.
 
 
 HIST. DE FRANCE.
-3
+
 Audomère ou Sordorée sa prémière
 femme, laquelle il repudia: Galsonte fille
 d Atanagilde Roy des Visigot z en Espai¬
@@ -141,9 +141,9 @@ Gasmette le¬
 chasse. Elle gist à sainct Germain des strangia de
 noict dans
 rex.
-1
+
 son lict.
-1o Clotaire deuxiesme du nom filz de
+o Clotaire deuxiesme du nom filz de
 Chilperic commença à regner l'an cinqu
 cens quatre vingt huit, & regna quaran¬
 te quatre ans. Il gist à sainct Germain des
@@ -165,7 +165,7 @@ disposee a auoir lignee.
 Nantilde sa seconde espouse, durant le
 mariage de laquelle il s abusa d vne ieune
 damoiselle nommee Raguetrunde.
-12 Clouis deuxiesme du nom filz de
+ Clouis deuxiesme du nom filz de
 Dagobert commença l'an six cens qua¬
 rante six, & regna dix-sept ans. Il gist à
 sainct Denis en France.
@@ -178,13 +178,13 @@ cte.
 
 
 HIST. DE FRANCE.
-4
-13 Clotaire troisiesme du nom filz de
+
+ Clotaire troisiesme du nom filz de
 Clouis deuxiesme, fut Roy l'an six cens
 soixante trois, & regna quatre ans. Il gist
 enl'Abbaye de Chelles selon les Annalles,
 autres disent à sainct Denis.
-14 Childeric deuxiesme du nom, frere Vne anci¬
+ Childeric deuxiesme du nom, frere Vne anci¬
 enne Chroni-
 de Clotaire troiziesme, commença à re- quealamais
 dit que son
@@ -204,7 +204,7 @@ auoit fait batre de verges, & furent tuez
 en laforest de Bondis pres Paris, eux re-
 uenans de la chasse. IIX gisent eux deux
 a sainct Germain des Prex.
-15 Theodoric premier du nom frere de
+ Theodoric premier du nom frere de
 Clotaire troiziesme, & Childeric deu¬
 xiesme, fut Roy l'an six cens quatre vingt,
 & regna quatorze ans. Il est inhumé en
@@ -215,16 +215,16 @@ A iiij
 
 
 LE THRESOR DES
-16 Clouis troisiesme du non filz de Theo¬
+ Clouis troisiesme du non filz de Theo¬
 doric, fut Roy l'an six cens quatre vingt
 quatorze, & regna quatre ans.
-17 Childebert deuxiesme, ou Hildebert,
+ Childebert deuxiesme, ou Hildebert,
 frere de Clouis troisiesme, commença à
 regner l'an six cens quatre vingt dix-huit,
 & regna dix-huit ans. Il gist à S. Estien¬
 ne de Nancy: lean Bouchet en ses Epita-
 phes appelle le lieu Cancy.
-L'extrait de 18 Dagobert deuxiesme du nom, dit le
+L'extrait de  Dagobert deuxiesme du nom, dit le
 la Chronique
 ieune, filz de Childebert deuxiesme, fut
 de l'Abbaye
@@ -235,14 +235,14 @@ empoisonne.
 Cancy.
 Clotilde deuxiesme du nom femme
 dudit Dagobert.
-19 Clotaire quatriesme du nom frere de
+ Clotaire quatriesme du nom frere de
 Dagobert deuxiesme s'efforça d'occuper
 le Royaume, l'an sept cents vingt, &
 Ancuns ledi regna deux ans. Il gist à Cancy pres son
 sent filgde Da
 pere & son frere.
 gobert deu¬
-xiesme, & 20 Chilperic deuxiesme du nom, ou
+xiesme, &  Chilperic deuxiesme du nom, ou
 ques basas Hilperic, ou Daniel auparauant moyne,
 ge il fut mis
 en religiona fut Roy l'an sept cens vingt-deux, & re¬
@@ -251,11 +251,11 @@ Theodoric.
 
 
 HIST. DE FRANCE.
-2I Theodoric deuxicime du nom filz de
+I Theodoric deuxicime du nom filz de
 Dagobert deuxiesme fut Roy l'an sept
 cens vingt-sept. Il regna quinze ans, &
 gist à sainct Denis.
-22 Childeric troisiesme du nom dit l'In
+ Childeric troisiesme du nom dit l'In
 sense, frere de Theodoric deuxiesme, fut
 Royl'an sept cens quarante deux, & re-
 gna neufans. Il fut rendu moyne: & est
@@ -263,7 +263,7 @@ le dernier de la première generation des
 Roys de France.
 Somme de Pharamond iusques a Pepin,
 trois cens trente & vn an.
-23 Pepin le Brief de la maison d'Austra-
+ Pepin le Brief de la maison d'Austra-
 sic, filz de Charles Martel, Maire du Pa¬
 lais, s'ensaisina du Royaume de France
 sur Childeric l'Insensé en l'an sept cens
@@ -273,7 +273,7 @@ Berte au grand pied, descendue de l'Em-
 pereur Eracle de Constantinople, es-
 poise dudit Pepin, gist en laditte Ab¬
 bayesainct Denis.
-24 Charlemaigne, ou Charles le Grand,
+ Charlemaigne, ou Charles le Grand,
 
 
 LE THRESOR DES
@@ -302,7 +302,7 @@ Liuthgarde de la maison de Sueue, sa
 
 
 HIST. DE FRANCE.
-6
+
 cinquiesme femme. Elle gist à sainct
 Martin de Tours.
 Outre ces Roynes femmes de Charle-
@@ -314,7 +314,7 @@ pourreit estre que c'estoit l' vne des dessus¬
 dittes dont le nom seroit corrompu.
 
 
-25 Loys le Debonnaire Roy & Empe-
+ Loys le Debonnaire Roy & Empe-
 reur filz de Charlemaigne commença à
 regner l'an huit cens quinze, & regna
 vingt six ans. Il gist à sainct Arnoul de
@@ -333,14 +333,14 @@ endura beaucoup de persecutions pour la
 LE THRESOR DES
 querelle de son mary, par les enfans de
 luy issus du premier mariage.
-26 Charles le Chauue Roy& Empereur,
+ Charles le Chauue Roy& Empereur,
 silz de Loys le Debonnaire, commenęa
 à regner l'an huit-cens quarante vn, & re-
 gna trente huit ans. Il gist à sainct Denis.
 Hermingarde sa premiere femme:
 Rixant ou Richilde sa deu¬
 xiesme femme.
-27 Loys le Begue Roy& Empereur deu-
+ Loys le Begue Roy& Empereur deu-
 xiesme du non filz de Charles le Chauue,
 commença l'an huit cens septante- neuf,
 & regna deux ans. Il gist en l'Abbaye
@@ -354,9 +354,9 @@ du Roy Charles le Simple. Bouchet en
 ses Genealogies la nomme Richeult seur
 
 
-7
+
 HIST. DE FRANCE.
-28 Loys troisiesme du nom, & Carolo¬ Ges deuae
+ Loys troisiesme du nom, & Carolo¬ Ges deuae
 man qu on dit bastardz de Loys le Begue, n'ent effigies
 an Palais.
 iegnerent ensemble quatre ans, & com¬
@@ -366,7 +366,7 @@ fiere, & regna vn an d'auantage, ce sont
 cinqu ans. Ilz gisent tous deux à Sainct
 Denis, & ont effigies de pierre, & ne sont
 comptez que pour vn regne.
-29 Loys surnommé Faineant, filz de Ilnapoint
+ Loys surnommé Faineant, filz de Ilnapoint
 Caroloman n'est pas nombre par aucuns d'effigie au
 Palais.
 entre les Roys, neantmoins regna enuiron
@@ -398,20 +398,20 @@ LE THRESOR DES
 Richarde de la maison Royalle d escoce
 sa femme, fonda vn monastere en
 Auxois ou elle trespassa.
-31 Odon ou Eude, filz de Robert Con-
+ Odon ou Eude, filz de Robert Con-
 te d'Angers, qui n'estoit point du sang de
 Charlemaigne, occupa le Royaume, pre¬
 nant la tutelle du petit Roy Charles le
 Simple, & fut sacre l'an huit cens quatre
 vingts onze, & regna dix ans.
-32 Charles le Simpée troisiesme du nom,
+ Charles le Simpée troisiesme du nom,
 filz de Loys le Begue, commeça à regner
 l'an neuf cens. Il regna vingt-sept ans, &
 gist à sainct Furcin de Peronne.
 Algine ou Ogine fille du Roy d'eAn¬
 gleterre, femme dudit Roy (har¬
 les le Simple.
-33 Raoul filz de Richard Duc de Bour-
+ Raoul filz de Richard Duc de Bour-
 gongne vsurpa la couronne de France,
 l'an neuf cens vingt-sept. Il regna deux
 ans, & mourut mange des cirons. Son
@@ -422,8 +422,8 @@ me dudit Arnoul.
 
 
 HIST. DE FRANCE.
-3
-4 Loys quatriesme du nom, dit d'Outre
+
+ Loys quatriesme du nom, dit d'Outre
 mer, filz de Charles le Simple, commen¬
 ca à regner l'an neuf cens vingt neuf, &
 regna vingt sept ans. Il gist en l'Abbaye
@@ -433,11 +433,11 @@ Othon premier du nom, mariee au¬
 parauant au Duc de Lorraine &
 depuis femme dudit Roy Loys qua¬
 triesme.
-3 Lotaire filz aisné du Roy Loys qua¬
+ Lotaire filz aisné du Roy Loys qua¬
 triesme, commença l'an neuf cens cin¬
 quante sept, & regna trente vn an. Il gist
 enl'Eglise Sainct Remy de Reims.
-36 Loys cinquiesme du nom, filz de Lo¬
+ Loys cinquiesme du nom, filz de Lo¬
 taire, commença l'ap neuf cens quatre
 vingt sept, regna vn an, & mourut par
 venin le premier an de son regne. Il gist à que apparen-
